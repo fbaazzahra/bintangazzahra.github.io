@@ -17,8 +17,29 @@ const dishes = [
     price: 12,
     image: "salad.jpeg",
     alt: "A pasta salad"
+  },
+  {
+  name: "Butter Croissant",
+  description: "Flaky, buttery pastry with a golden and crispy crust",
+  price: 8,
+  image: "croissant.jpg",
+  alt: "A butter croissant"
+  },
+  {
+  name: "Chocolate Brownie",
+  description: "Rich chocolate brownie with a soft and fudgy texture",
+  price: 9,
+  image: "brownie.jpg",
+  alt: "A chocolate brownie"
+  },
+  {
+  name: "Classic Cheesecake",
+  description: "Creamy cheesecake with a buttery biscuit crust",
+  price: 11,
+  image: "cheesecake.jpg",
+  alt: "A slice of classic cheesecake"
   }
-];
+  ];
 
 /* ===== 2. One rule for how a price looks (§6) ===== */
 
